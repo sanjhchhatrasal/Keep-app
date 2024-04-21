@@ -1,6 +1,4 @@
-Here's a README file draft for your Keep-app GitHub repository:
 
----
 
 # Keep App 📝
 
@@ -68,4 +66,3 @@ For questions or feedback, please contact me at [sanjhchhatrasal@gmail.com](mail
 
 ---
 
-Feel free to customize the content, add more sections, or include relevant images as needed for your Keep App's README!
